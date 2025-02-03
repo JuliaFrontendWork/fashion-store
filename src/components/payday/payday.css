@@ -1,0 +1,63 @@
+.payday {
+    background-image: url(../../image/fon.png);
+}
+
+.payday__content {
+    display: flex;
+    column-gap: 63px;
+}
+
+.payday__text {
+    margin-top: 140px;
+}
+
+.payday_title {
+    max-width: 593px;
+    margin-bottom: 33px;
+    font-weight: 900;
+    font-size: 111px;
+    line-height: 138px;
+}
+
+.payday__desc {
+    font-size: 34px;
+    font-weight: 500;
+    line-height: 52px;
+    max-width: 644px;
+    margin-bottom: 40px;
+}
+
+.payday__date {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 52px;
+    letter-spacing: 2%;
+}
+
+.payday__terms {
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 52px;
+    margin-bottom: 51px;
+}
+
+.payday__btn {
+    padding: 18px 40px;
+
+    background-color: black;
+    border-radius: 10px;
+
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 1.5;
+    letter-spacing: -0.05em;
+    color: white;
+}
+
+.highlight-d::before {
+    margin-left: -28px;
+    margin-top: -6px;
+    width: 541px;
+    height: 130px;
+    transform:rotate(-181deg)
+}

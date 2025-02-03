@@ -1,0 +1,37 @@
+.app {
+    margin-bottom: 220px;
+}
+
+.app__content {
+    display: flex;
+    column-gap: 305px;
+}
+
+.content__text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 100px;
+}
+
+.app_title {
+    max-width: 507px;
+    margin-bottom: 41px;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 150%;
+    letter-spacing: 6%;
+}
+
+.app__page {
+    max-width: 507px;
+    margin-bottom: 41px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+}
+
+.store {
+    display: flex;
+    column-gap: 19px;
+}
