@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "//JuliaFrontendWork.github.io/fashion-store/static/css/main.822efd59.css",
+    "main.js": "//JuliaFrontendWork.github.io/fashion-store/static/js/main.8ade49a5.js",
+    "static/media/header-img.png": "//JuliaFrontendWork.github.io/fashion-store/static/media/header-img.544953c71fe54caee0e1.png",
+    "static/media/fon.png": "//JuliaFrontendWork.github.io/fashion-store/static/media/fon.d1f3de44f23910b7337b.png",
+    "static/media/Trending.png": "//JuliaFrontendWork.github.io/fashion-store/static/media/Trending.cd728150b08709621ef2.png",
+    "static/media/promo-img.png": "//JuliaFrontendWork.github.io/fashion-store/static/media/promo-img.25d7b8b4aa2e000d79ee.png",
+    "static/media/Tees.png": "//JuliaFrontendWork.github.io/fashion-store/static/media/Tees.d9cb057d92036acd5b4a.png",
+    "static/media/Hoodies.png": "//JuliaFrontendWork.github.io/fashion-store/static/media/Hoodies.60715167d196d47b379d.png",
+    "static/media/phone.png": "//JuliaFrontendWork.github.io/fashion-store/static/media/phone.86facf7c8a056ee4ba3f.png",
+    "static/media/All.png": "//JuliaFrontendWork.github.io/fashion-store/static/media/All.97a1ffbd6608c33c4640.png",
+    "static/media/Coats.png": "//JuliaFrontendWork.github.io/fashion-store/static/media/Coats.273d1b52f69f29347723.png",
+    "static/media/Amazon.png": "//JuliaFrontendWork.github.io/fashion-store/static/media/Amazon.96a78d780b18ac82a654.png",
+    "static/media/Shopify.png": "//JuliaFrontendWork.github.io/fashion-store/static/media/Shopify.6fb98b85740e436150fd.png",
+    "static/media/logo.svg": "//JuliaFrontendWork.github.io/fashion-store/static/media/logo.fa6ed5442940b2375841123db8c623be.svg",
+    "static/media/inst.svg": "//JuliaFrontendWork.github.io/fashion-store/static/media/inst.732079676e1f1e8f5ab8d3607bb89ff5.svg",
+    "static/media/tw.svg": "//JuliaFrontendWork.github.io/fashion-store/static/media/tw.28bd6c068f25e4ae67cd362b1da1f8d2.svg",
+    "static/media/in.svg": "//JuliaFrontendWork.github.io/fashion-store/static/media/in.e36441e360ccd4bc3466cb67982a374d.svg",
+    "index.html": "//JuliaFrontendWork.github.io/fashion-store/index.html",
+    "static/media/Arrow.svg": "//JuliaFrontendWork.github.io/fashion-store/static/media/Arrow.8b7c471b7fda9ba44f53a56169951f29.svg",
+    "static/media/fb.svg": "//JuliaFrontendWork.github.io/fashion-store/static/media/fb.4faf19d0bfe6a510d553b2e4528e5bf8.svg",
+    "static/media/yelow.svg": "//JuliaFrontendWork.github.io/fashion-store/static/media/yelow.1cde02ab1a06cdaddfa4.svg",
+    "main.822efd59.css.map": "//JuliaFrontendWork.github.io/fashion-store/static/css/main.822efd59.css.map",
+    "main.8ade49a5.js.map": "//JuliaFrontendWork.github.io/fashion-store/static/js/main.8ade49a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.822efd59.css",
+    "static/js/main.8ade49a5.js"
+  ]
+}
